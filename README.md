@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo 👋
 
-<!--
-**ConradoAlvess/ConradoAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Estudando Python, lógica de programação, suporte técnico e redes  
+🔐 Interesse em Cibersegurança  
+📍 São Paulo - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- Calculadora em Python
+- Sistema de Login em Python
+- Cadastro de Usuários em Python
+
+---
+
+## 🎯 Objetivo
+Busco uma oportunidade de estágio ou início de carreira na área de Tecnologia da Informação.
