@@ -5,7 +5,7 @@
 🎓 Estudante de Ciência da Computação - Universidade Cruzeiro do Sul
 
 ----------------------------
-💻 Amante de Técnologia e Desenvolvimente de software, encontrará projetos academicos e pessoais meus aqui.
+💻 Amante de Técnologia e Desenvolvimento de software, encontrará projetos academicos e pessoais meus aqui.
  ----------------------------
 📍 São Paulo - SP  
 
