@@ -2,7 +2,7 @@
 ----------------------------
 🎓 Estudante de Ciência da Computação - Universidade Cruzeiro do Sul
 
-🎓 Formado em Técnico De TI - SENAC 
+🎓 Formado em Técnico de TI - SENAC
 ----------------------------
 💻 Amante de Técnologia e Desenvolvimente de software, encontrará projetos academicos e pessoais meus aqui.
  ----------------------------
